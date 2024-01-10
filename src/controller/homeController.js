@@ -8,7 +8,26 @@ const setupCheckMiddleware = require('../middleware/setupCheck');
 const fs = require('fs');
 const setupLayout = '../views/layouts/setup';
 const authLayout = '../views/layouts/auth';
+const { promisify } = require("util");
+const readFileAsync = promisify(fs.readFile);
+const writeFileAsync = promisify(fs.writeFile);
+const path = require('path')
 
+
+const getCurrentStep = () => {
+  // Implement this function based on how you track the setup progress
+  // For example, read from a file or database
+  const stepFilePath = "step.txt"; // Replace with the actual file reference
+
+  if (fs.existsSync(stepFilePath)) {
+    // Read the current step from the file
+    const currentStep = parseInt(fs.readFileSync(stepFilePath, "utf-8"), 10);
+    return currentStep;
+  } else {
+    // If the file doesn't exist, assume step 0
+    return 0;
+  }
+};
 exports.getIndex = async (req, res) => {
     try {
       const locals = {
@@ -231,4 +250,31 @@ exports.hotPosts = async (req, res) => {
     
   }
 }
+
+exports.systemSettings = async (req, res) => {
+  try {
+    // Check if the application is already installed
+    const isInstalled = fs.existsSync(".env") && fs.existsSync("installed.txt");
+
+    if (isInstalled) {
+      return res.status(404).render("errors/404", { layout: errorLayout });
+    }
+
+    // Check the current step in the setup progress
+    const currentStep = getCurrentStep(); // Implement this function based on your setup progress tracking
+
+    // If the current step is 6, complete installation and render system settings page
+    if (currentStep === 6) {
+      fs.writeFileSync("installed.txt", "Installation complete");
+      return res.render("installation/system_settings", {layout: setupLayout});
+    } else {
+      // If the current step is not 6, return a 405 Method Not Allowed error
+      return res.status(405).render("errors/405");
+    }
+  } catch (error) {
+    // Handle any unexpected errors
+    console.error("Error in systemSettings:", error);
+    return res.status(500).render("errors/500");
+  }
+};
 

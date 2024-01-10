@@ -11,6 +11,7 @@ home.get('/Contact', homeController.getContact);
 home.post('/contact', homeController.postContact);
 home.get('/admin/login', homeController.login);
 home.post('/admin/login', homeController.postLogin);
+home.get('/system_setting', homeController.systemSettings);
 
 // category.get('/:id', categoryController.getCategoryById);
 // category.post('/', categoryController.createCategory);

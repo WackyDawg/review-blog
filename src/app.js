@@ -16,6 +16,9 @@ const uploadRoutes = require('./routes/uploadRoutes');
 const setupCheckMiddleware = require('./middleware/setupCheck');
 const expressLayout = require('express-ejs-layouts')
 const bodyParser = require('body-parser');
+const session = require('express-session');
+
+
 
 
 
@@ -28,7 +31,12 @@ connectDB();
 app.set('view engine', 'ejs');
 app.set('layout', './layouts/main');
 const setupLayout = 'layouts/setup';
-
+app.use(session({
+    secret: 'kitten',
+    resave: false,
+    saveUninitialized: true,
+    cookie: { secure: false } // Adjust as needed
+  }));
 
 app.use(expressLayout);
 
