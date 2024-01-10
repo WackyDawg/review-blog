@@ -1,36 +1,275 @@
 [
   {
-    "_id": "6595b0545e59c49f334f7cde",
-    "title": "Demo Blog Post 1",
+    "_id": "65910d70242f15e90526e005",
+    "title": "The Enduring Charm of the Old House: Unlocking Stories and Preserving History",
+    "category": "6594acf4ab38eb388022c6a6",
+    "slug": "the-enduring-charm-of-the-old-house:-unlocking-stories-and-preserving-history",
+    "banner": [
+      "../public/uploads/1704834392104.webp"
+    ],
+    "short_description": "Stories have been an integral part of human culture since the dawn of time. From ancient myths and legends to modern novels and films, storytelling has the power to captivate, inspire, and move us. But what makes a narrative truly compelling? ",
+    "description": "<p style=\"margin-right: 0px; margin-bottom: 30px; margin-left: 0px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\">Stories have been an integral part of human culture since the dawn of time. From ancient myths and legends to modern novels and films, storytelling has the power to captivate, inspire, and move us. But what makes a narrative truly compelling? In this article, we will explore the art of storytelling and provide you with valuable tips to craft narratives that leave a lasting impact on your audience.</p><ol style=\"margin: 30px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\"><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Know your audience: Before diving into the world of storytelling, it is essential to understand your audience. What are their interests, fears, and desires? Tailor your narrative in a way that resonates with them. By connecting with your audience on an emotional level, you can create a powerful bond that keeps them engaged from beginning to end.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Develop memorable characters: Characters are the heart and soul of any narrative. Craft well-rounded and relatable characters that your audience can connect with on a personal level. Give them strengths, weaknesses, and compelling backstories that shape their journey throughout the story. By creating characters that your audience can invest in emotionally, you can ensure they become deeply invested in the narrative.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Create a compelling conflict: Every great story revolves around a conflict that drives the plot forward. Whether it’s a personal struggle, an external threat, or a moral dilemma, the conflict should keep your audience on the edge of their seats. Introduce obstacles and challenges that your characters must overcome to achieve their goals. This not only adds tension but also allows for character growth and development.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Structure your narrative: A well-structured narrative is crucial for holding your audience’s attention. Begin with a captivating opening that hooks your readers or viewers, then gradually build up the tension. The middle part should introduce twists, turns, and surprises to keep the audience engaged. Finally, conclude with a satisfying resolution that ties up loose ends and leaves a lasting impact.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Utilize vivid imagery and sensory details: To transport your audience into the world of your story, use vivid imagery and sensory details. Engage their senses by describing the sights, sounds, smells, tastes, and textures within your narrative. This immersive experience will make your story come alive and create a lasting impression on your audience.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Show, don’t tell: Instead of simply telling your audience what is happening, show them through actions, dialogue, and vivid descriptions. This allows your audience to experience the story firsthand and form their own emotional connections. By engaging their imagination, you can create a more immersive and memorable narrative.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Craft a memorable ending: The ending of a story is just as important as its beginning. Leave your audience with a lasting impression by crafting a memorable ending that resonates with them. Whether it’s a surprising twist, a poignant resolution, or an open-ended conclusion that sparks discussion, make sure it leaves your audience thinking long after they’ve finished your narrative.</li></ol><p style=\"margin-right: 0px; margin-bottom: 30px; margin-left: 0px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\">Conclusion: Storytelling is a powerful tool that can captivate and inspire audiences. By understanding your audience, developing memorable characters, creating compelling conflicts, structuring your narrative effectively, utilizing vivid imagery, showing instead of telling, and crafting a memorable ending, you can master the art of storytelling and create narratives that will leave a lasting impact on your audience. So, go forth and unleash the power of storytelling to share your unique voice with the world.</p>",
+    "tags": [
+      "[{\"value\":\"art\"}",
+      "{\"value\":\"culture\"}]"
+    ],
+    "meta_title": "The Enduring Charm of the Old House: Unlocking Stories and Preserving History",
+    "meta_img": [
+      "https://example.com/meta-image.jpg"
+    ],
+    "meta_description": "Meta description for the dummy blog post.",
+    "meta_keywords": "dummy, blog, post",
+    "createdAt":  "2023-12-31T06:42:56.038Z",
+    "updatedAt":  "2023-12-31T06:42:56.039Z",
+    "__v": 3,
+    "isEditorsChoice": false,
+    "views": 13
+  },
+  {
+    "_id": "65913c4551986f140a654685",
+    "title": "Day of the Dead: Exploring the Vibrant Traditions of the Mexican Death Festival",
+    "slug": "day-of-the-dead:-exploring-the-vibrant-traditions-of-the-mexican-death-festival",
+    "banner": [
+      "../public/uploads/1704836516748.webp"
+    ],
+    "short_description": "Stories have been an integral part of human culture since the dawn of time. From ancient myths and legends to modern novels and films, storytelling has the power to captivate, inspire, and move us. But what makes a narrative truly compelling? In this article, we will explore the art of storytelling and provide you with valuable tips to craft narratives that leave a lasting impact on your audience.",
+    "description": "<p style=\"margin-right: 0px; margin-bottom: 30px; margin-left: 0px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\">Stories have been an integral part of human culture since the dawn of time. From ancient myths and legends to modern novels and films, storytelling has the power to captivate, inspire, and move us. But what makes a narrative truly compelling? In this article, we will explore the art of storytelling and provide you with valuable tips to craft narratives that leave a lasting impact on your audience.</p><ol style=\"margin: 30px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\"><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Know your audience: Before diving into the world of storytelling, it is essential to understand your audience. What are their interests, fears, and desires? Tailor your narrative in a way that resonates with them. By connecting with your audience on an emotional level, you can create a powerful bond that keeps them engaged from beginning to end.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Develop memorable characters: Characters are the heart and soul of any narrative. Craft well-rounded and relatable characters that your audience can connect with on a personal level. Give them strengths, weaknesses, and compelling backstories that shape their journey throughout the story. By creating characters that your audience can invest in emotionally, you can ensure they become deeply invested in the narrative.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Create a compelling conflict: Every great story revolves around a conflict that drives the plot forward. Whether it’s a personal struggle, an external threat, or a moral dilemma, the conflict should keep your audience on the edge of their seats. Introduce obstacles and challenges that your characters must overcome to achieve their goals. This not only adds tension but also allows for character growth and development.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Structure your narrative: A well-structured narrative is crucial for holding your audience’s attention. Begin with a captivating opening that hooks your readers or viewers, then gradually build up the tension. The middle part should introduce twists, turns, and surprises to keep the audience engaged. Finally, conclude with a satisfying resolution that ties up loose ends and leaves a lasting impact.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Utilize vivid imagery and sensory details: To transport your audience into the world of your story, use vivid imagery and sensory details. Engage their senses by describing the sights, sounds, smells, tastes, and textures within your narrative. This immersive experience will make your story come alive and create a lasting impression on your audience.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Show, don’t tell: Instead of simply telling your audience what is happening, show them through actions, dialogue, and vivid descriptions. This allows your audience to experience the story firsthand and form their own emotional connections. By engaging their imagination, you can create a more immersive and memorable narrative.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Craft a memorable ending: The ending of a story is just as important as its beginning. Leave your audience with a lasting impression by crafting a memorable ending that resonates with them. Whether it’s a surprising twist, a poignant resolution, or an open-ended conclusion that sparks discussion, make sure it leaves your audience thinking long after they’ve finished your narrative.</li></ol><p style=\"margin-right: 0px; margin-bottom: 30px; margin-left: 0px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\">Conclusion: Storytelling is a powerful tool that can captivate and inspire audiences. By understanding your audience, developing memorable characters, creating compelling conflicts, structuring your narrative effectively, utilizing vivid imagery, showing instead of telling, and crafting a memorable ending, you can master the art of storytelling and create narratives that will leave a lasting impact on your audience. So, go forth and unleash the power of storytelling to share your unique voice with the world.</p>",
+    "tags": [
+      "[{\"value\":\"mechatronics\"}]"
+    ],
+    "meta_title": "jsdjsjfjasfa",
+    "meta_img": [
+      ""
+    ],
+    "meta_description": "demo meta description",
+    "meta_keywords": "test, run,",
+    "createdAt":  "2023-12-31T10:02:45.686Z",
+    "updatedAt":  "2023-12-31T10:02:45.686Z",
+    "__v": 3,
+    "category":  "6594acf4ab38eb388022c6a6",
+    "isEditorsChoice": false,
+    "views": 11
+  },
+  {
+    "_id": "6592a757108a04c8ae780bf6",
+    "title": "The Enigma of the Screaming Man: Unraveling the Mystery Behind the Haunting Cries",
+    "category": "6594acf4ab38eb388022c6a6",
+    "slug": "the-enigma-of-the-screaming-man:-unraveling-the-mystery-behind-the-haunting-cries",
+    "banner": [
+      "../public/uploads/1704834607198.webp"
+    ],
+    "short_description": "Stories have been an integral part of human culture since the dawn of time. From ancient myths and legends to modern novels and films, storytelling has the power to captivate, inspire, and move us. But what makes a narrative truly compelling? In this article, we will explore the art of storytelling and provide you with valuable tips to craft narratives that leave a lasting impact on your audience.\r\n\r\n",
+    "description": "<p style=\"margin-right: 0px; margin-bottom: 30px; margin-left: 0px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\">Stories have been an integral part of human culture since the dawn of time. From ancient myths and legends to modern novels and films, storytelling has the power to captivate, inspire, and move us. But what makes a narrative truly compelling? In this article, we will explore the art of storytelling and provide you with valuable tips to craft narratives that leave a lasting impact on your audience.</p><ol style=\"margin: 30px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\"><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Know your audience: Before diving into the world of storytelling, it is essential to understand your audience. What are their interests, fears, and desires? Tailor your narrative in a way that resonates with them. By connecting with your audience on an emotional level, you can create a powerful bond that keeps them engaged from beginning to end.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Develop memorable characters: Characters are the heart and soul of any narrative. Craft well-rounded and relatable characters that your audience can connect with on a personal level. Give them strengths, weaknesses, and compelling backstories that shape their journey throughout the story. By creating characters that your audience can invest in emotionally, you can ensure they become deeply invested in the narrative.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Create a compelling conflict: Every great story revolves around a conflict that drives the plot forward. Whether it’s a personal struggle, an external threat, or a moral dilemma, the conflict should keep your audience on the edge of their seats. Introduce obstacles and challenges that your characters must overcome to achieve their goals. This not only adds tension but also allows for character growth and development.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Structure your narrative: A well-structured narrative is crucial for holding your audience’s attention. Begin with a captivating opening that hooks your readers or viewers, then gradually build up the tension. The middle part should introduce twists, turns, and surprises to keep the audience engaged. Finally, conclude with a satisfying resolution that ties up loose ends and leaves a lasting impact.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Utilize vivid imagery and sensory details: To transport your audience into the world of your story, use vivid imagery and sensory details. Engage their senses by describing the sights, sounds, smells, tastes, and textures within your narrative. This immersive experience will make your story come alive and create a lasting impression on your audience.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Show, don’t tell: Instead of simply telling your audience what is happening, show them through actions, dialogue, and vivid descriptions. This allows your audience to experience the story firsthand and form their own emotional connections. By engaging their imagination, you can create a more immersive and memorable narrative.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Craft a memorable ending: The ending of a story is just as important as its beginning. Leave your audience with a lasting impression by crafting a memorable ending that resonates with them. Whether it’s a surprising twist, a poignant resolution, or an open-ended conclusion that sparks discussion, make sure it leaves your audience thinking long after they’ve finished your narrative.</li></ol><p style=\"margin-right: 0px; margin-bottom: 30px; margin-left: 0px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\">Conclusion: Storytelling is a powerful tool that can captivate and inspire audiences. By understanding your audience, developing memorable characters, creating compelling conflicts, structuring your narrative effectively, utilizing vivid imagery, showing instead of telling, and crafting a memorable ending, you can master the art of storytelling and create narratives that will leave a lasting impact on your audience. So, go forth and unleash the power of storytelling to share your unique voice with the world.</p>",
+    "tags": [],
+    "meta_title": "The Enigma of the Screaming Man: Unraveling the Mystery Behind the Haunting Cries",
+    "meta_img": [
+      ""
+    ],
+    "meta_description": "demo meta description",
+    "meta_keywords": "test, enigma",
+    "createdAt":  "2024-01-01T11:51:51.056Z",
+    "updatedAt":  "2024-01-01T11:51:51.056Z",
+    "__v": 2,
+    "isEditorsChoice": true,
+    "views": 4
+  },
+  {
+    "_id": "6592a8dbb3160e06218568e1",
+    "title": "Empowered Elegance: Embracing the Modern Woman’s Journey",
+    "category": {
+      "$oid": "6595bb7b5e59c49f334f7de9"
+    },
+    "slug": "empowered-elegance:-embracing-the-modern-woman's-journey",
+    "banner": [
+      "../public/uploads/1704835226035.webp"
+    ],
+    "short_description": "Stories have been an integral part of human culture since the dawn of time. From ancient myths and legends to modern novels and films, storytelling has the power to captivate, inspire, and move us. But what makes a narrative truly compelling? In this article, we will explore the art of storytelling and provide you with valuable tips to craft narratives that leave a lasting impact on your audience.",
+    "description": "<p style=\"margin-right: 0px; margin-bottom: 30px; margin-left: 0px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\">Stories have been an integral part of human culture since the dawn of time. From ancient myths and legends to modern novels and films, storytelling has the power to captivate, inspire, and move us. But what makes a narrative truly compelling? In this article, we will explore the art of storytelling and provide you with valuable tips to craft narratives that leave a lasting impact on your audience.</p><ol style=\"margin: 30px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\"><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Know your audience: Before diving into the world of storytelling, it is essential to understand your audience. What are their interests, fears, and desires? Tailor your narrative in a way that resonates with them. By connecting with your audience on an emotional level, you can create a powerful bond that keeps them engaged from beginning to end.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Develop memorable characters: Characters are the heart and soul of any narrative. Craft well-rounded and relatable characters that your audience can connect with on a personal level. Give them strengths, weaknesses, and compelling backstories that shape their journey throughout the story. By creating characters that your audience can invest in emotionally, you can ensure they become deeply invested in the narrative.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Create a compelling conflict: Every great story revolves around a conflict that drives the plot forward. Whether it’s a personal struggle, an external threat, or a moral dilemma, the conflict should keep your audience on the edge of their seats. Introduce obstacles and challenges that your characters must overcome to achieve their goals. This not only adds tension but also allows for character growth and development.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Structure your narrative: A well-structured narrative is crucial for holding your audience’s attention. Begin with a captivating opening that hooks your readers or viewers, then gradually build up the tension. The middle part should introduce twists, turns, and surprises to keep the audience engaged. Finally, conclude with a satisfying resolution that ties up loose ends and leaves a lasting impact.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Utilize vivid imagery and sensory details: To transport your audience into the world of your story, use vivid imagery and sensory details. Engage their senses by describing the sights, sounds, smells, tastes, and textures within your narrative. This immersive experience will make your story come alive and create a lasting impression on your audience.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Show, don’t tell: Instead of simply telling your audience what is happening, show them through actions, dialogue, and vivid descriptions. This allows your audience to experience the story firsthand and form their own emotional connections. By engaging their imagination, you can create a more immersive and memorable narrative.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Craft a memorable ending: The ending of a story is just as important as its beginning. Leave your audience with a lasting impression by crafting a memorable ending that resonates with them. Whether it’s a surprising twist, a poignant resolution, or an open-ended conclusion that sparks discussion, make sure it leaves your audience thinking long after they’ve finished your narrative.</li></ol><p style=\"margin-right: 0px; margin-bottom: 30px; margin-left: 0px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\">Conclusion: Storytelling is a powerful tool that can captivate and inspire audiences. By understanding your audience, developing memorable characters, creating compelling conflicts, structuring your narrative effectively, utilizing vivid imagery, showing instead of telling, and crafting a memorable ending, you can master the art of storytelling and create narratives that will leave a lasting impact on your audience. So, go forth and unleash the power of storytelling to share your unique voice with the world.</p>",
+    "tags": [],
+    "meta_title": "kkkkkkkk",
+    "meta_img": [
+      ""
+    ],
+    "meta_description": "meta description test",
+    "meta_keywords": "keywords",
+    "createdAt":  "2024-01-01T11:58:19.404Z",
+    "updatedAt":  "2024-01-01T11:58:19.405Z",
+    "__v": 2,
+    "isEditorsChoice": true,
+    "views": 6
+  },
+  {
+    "_id": "6592a94cf985aeff4a508e4d",
+    "title": "Capturing the Magic: The Enchanting Beauty of the Setting Sun",
     "category": "6595bb7b5e59c49f334f7de9",
-    "slug": "demo-blog-post1",
-    "banner": ["../public/uploads/1704308820010.jpg"],
-    "short_description": "short desc\r\n",
-    "description": "<p>test</p>",
-    "tags": [{"value": "helllo"}],
-    "meta_title": "meta_title",
-    "meta_img": ["../public/uploads/1704308820010.jpg"],
-    "meta_description": "dafafafafaf",
-    "meta_keywords": "affafafafa",
-    "createdAt": "2024-01-03T19:07:00.063Z",
-    "updatedAt": "2024-01-03T19:07:00.063Z",
-    "__v": 0
+    "slug": "capturing-the-magic:-the-enchanting-beauty-of-the-setting-sun",
+    "banner": [
+      "../public/uploads/1704835387543.webp"
+    ],
+    "short_description": "Stories have been an integral part of human culture since the dawn of time. From ancient myths and legends to modern novels and films, storytelling has the power to captivate, inspire, and move us. But what makes a narrative truly compelling? In this article, we will explore the art of storytelling and provide you with valuable tips to craft narratives that leave a lasting impact on your audience.",
+    "description": "<p style=\"margin-right: 0px; margin-bottom: 30px; margin-left: 0px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\">Stories have been an integral part of human culture since the dawn of time. From ancient myths and legends to modern novels and films, storytelling has the power to captivate, inspire, and move us. But what makes a narrative truly compelling? In this article, we will explore the art of storytelling and provide you with valuable tips to craft narratives that leave a lasting impact on your audience.</p><ol style=\"margin: 30px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\"><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Know your audience: Before diving into the world of storytelling, it is essential to understand your audience. What are their interests, fears, and desires? Tailor your narrative in a way that resonates with them. By connecting with your audience on an emotional level, you can create a powerful bond that keeps them engaged from beginning to end.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Develop memorable characters: Characters are the heart and soul of any narrative. Craft well-rounded and relatable characters that your audience can connect with on a personal level. Give them strengths, weaknesses, and compelling backstories that shape their journey throughout the story. By creating characters that your audience can invest in emotionally, you can ensure they become deeply invested in the narrative.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Create a compelling conflict: Every great story revolves around a conflict that drives the plot forward. Whether it’s a personal struggle, an external threat, or a moral dilemma, the conflict should keep your audience on the edge of their seats. Introduce obstacles and challenges that your characters must overcome to achieve their goals. This not only adds tension but also allows for character growth and development.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Structure your narrative: A well-structured narrative is crucial for holding your audience’s attention. Begin with a captivating opening that hooks your readers or viewers, then gradually build up the tension. The middle part should introduce twists, turns, and surprises to keep the audience engaged. Finally, conclude with a satisfying resolution that ties up loose ends and leaves a lasting impact.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Utilize vivid imagery and sensory details: To transport your audience into the world of your story, use vivid imagery and sensory details. Engage their senses by describing the sights, sounds, smells, tastes, and textures within your narrative. This immersive experience will make your story come alive and create a lasting impression on your audience.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Show, don’t tell: Instead of simply telling your audience what is happening, show them through actions, dialogue, and vivid descriptions. This allows your audience to experience the story firsthand and form their own emotional connections. By engaging their imagination, you can create a more immersive and memorable narrative.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Craft a memorable ending: The ending of a story is just as important as its beginning. Leave your audience with a lasting impression by crafting a memorable ending that resonates with them. Whether it’s a surprising twist, a poignant resolution, or an open-ended conclusion that sparks discussion, make sure it leaves your audience thinking long after they’ve finished your narrative.</li></ol><p style=\"margin-right: 0px; margin-bottom: 30px; margin-left: 0px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\">Conclusion: Storytelling is a powerful tool that can captivate and inspire audiences. By understanding your audience, developing memorable characters, creating compelling conflicts, structuring your narrative effectively, utilizing vivid imagery, showing instead of telling, and crafting a memorable ending, you can master the art of storytelling and create narratives that will leave a lasting impact on your audience. So, go forth and unleash the power of storytelling to share your unique voice with the world.</p>",
+    "tags": [
+      "[{\"value\":\"inspire\"}]"
+    ],
+    "meta_title": "Capturing the Magic: The Enchanting Beauty of the Setting Sun",
+    "meta_img": [
+      ""
+    ],
+    "meta_description": "description",
+    "meta_keywords": "test",
+    "createdAt":  "2024-01-01T12:00:12.303Z",
+    "updatedAt":  "2024-01-01T12:00:12.303Z",
+    "__v": 2,
+    "isEditorsChoice": false,
+    "views": 1
+  },
+  {
+    "_id": "6593dba78e06eeaa45189796",
+    "title": "The Leaf Dinosaur: Unveiling the Ancient Secrets of Nature’s Living Fossils",
+    "category":  "6594acf4ab38eb388022c6a6",
+    "slug": "the-leaf-dinosaur:-unveiling-the-ancient-secrets-of-nature's-living-fossils",
+    "banner": [
+      "../public/uploads/1704835937871.webp"
+    ],
+    "short_description": "Stories have been an integral part of human culture since the dawn of time. From ancient myths and legends to modern novels and films, storytelling has the power to captivate, inspire, and move us. But what makes a narrative truly compelling? In this article, we will explore the art of storytelling and provide you with valuable tips to craft narratives that leave a lasting impact on your audience.",
+    "description": "<p style=\"margin-right: 0px; margin-bottom: 30px; margin-left: 0px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\">Stories have been an integral part of human culture since the dawn of time. From ancient myths and legends to modern novels and films, storytelling has the power to captivate, inspire, and move us. But what makes a narrative truly compelling? In this article, we will explore the art of storytelling and provide you with valuable tips to craft narratives that leave a lasting impact on your audience.</p><ol style=\"margin: 30px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\"><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Know your audience: Before diving into the world of storytelling, it is essential to understand your audience. What are their interests, fears, and desires? Tailor your narrative in a way that resonates with them. By connecting with your audience on an emotional level, you can create a powerful bond that keeps them engaged from beginning to end.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Develop memorable characters: Characters are the heart and soul of any narrative. Craft well-rounded and relatable characters that your audience can connect with on a personal level. Give them strengths, weaknesses, and compelling backstories that shape their journey throughout the story. By creating characters that your audience can invest in emotionally, you can ensure they become deeply invested in the narrative.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Create a compelling conflict: Every great story revolves around a conflict that drives the plot forward. Whether it’s a personal struggle, an external threat, or a moral dilemma, the conflict should keep your audience on the edge of their seats. Introduce obstacles and challenges that your characters must overcome to achieve their goals. This not only adds tension but also allows for character growth and development.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Structure your narrative: A well-structured narrative is crucial for holding your audience’s attention. Begin with a captivating opening that hooks your readers or viewers, then gradually build up the tension. The middle part should introduce twists, turns, and surprises to keep the audience engaged. Finally, conclude with a satisfying resolution that ties up loose ends and leaves a lasting impact.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Utilize vivid imagery and sensory details: To transport your audience into the world of your story, use vivid imagery and sensory details. Engage their senses by describing the sights, sounds, smells, tastes, and textures within your narrative. This immersive experience will make your story come alive and create a lasting impression on your audience.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Show, don’t tell: Instead of simply telling your audience what is happening, show them through actions, dialogue, and vivid descriptions. This allows your audience to experience the story firsthand and form their own emotional connections. By engaging their imagination, you can create a more immersive and memorable narrative.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Craft a memorable ending: The ending of a story is just as important as its beginning. Leave your audience with a lasting impression by crafting a memorable ending that resonates with them. Whether it’s a surprising twist, a poignant resolution, or an open-ended conclusion that sparks discussion, make sure it leaves your audience thinking long after they’ve finished your narrative.</li></ol><p style=\"margin-right: 0px; margin-bottom: 30px; margin-left: 0px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\">Conclusion: Storytelling is a powerful tool that can captivate and inspire audiences. By understanding your audience, developing memorable characters, creating compelling conflicts, structuring your narrative effectively, utilizing vivid imagery, showing instead of telling, and crafting a memorable ending, you can master the art of storytelling and create narratives that will leave a lasting impact on your audience. So, go forth and unleash the power of storytelling to share your unique voice with the world.</p>",
+    "tags": [],
+    "meta_title": "The Leaf Dinosaur: Unveiling the Ancient Secrets of Nature’s Living Fossils",
+    "meta_img": [
+      ""
+    ],
+    "meta_description": "desc",
+    "meta_keywords": "keywords",
+    "createdAt":  "2024-01-02T09:47:19.677Z",
+    "updatedAt":  "2024-01-02T09:47:19.677Z",
+    "__v": 2,
+    "isEditorsChoice": true,
+    "views": 0
+  },
+  {
+    "_id": "6593dcabb402ed0c8640f142",
+    "title": "Day of the Dead: Exploring the Vibrant Traditions of the Mexican Death Festival",
+    "category": "6594acf4ab38eb388022c6a6",
+    "slug": "day-of-the-dead:-exploring-the-vibrant-traditions-of-the-mexican-death-festival",
+    "banner": [
+      "../public/uploads/1704835630917.webp"
+    ],
+    "short_description": "Stories have been an integral part of human culture since the dawn of time. From ancient myths and legends to modern novels and films, storytelling has the power to captivate, inspire, and move us. But what makes a narrative truly compelling? In this article, we will explore the art of storytelling and provide you with valuable tips to craft narratives that leave a lasting impact on your audience.",
+    "description": "<p style=\"margin-right: 0px; margin-bottom: 30px; margin-left: 0px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\">Stories have been an integral part of human culture since the dawn of time. From ancient myths and legends to modern novels and films, storytelling has the power to captivate, inspire, and move us. But what makes a narrative truly compelling? In this article, we will explore the art of storytelling and provide you with valuable tips to craft narratives that leave a lasting impact on your audience.</p><ol style=\"margin: 30px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\"><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Know your audience: Before diving into the world of storytelling, it is essential to understand your audience. What are their interests, fears, and desires? Tailor your narrative in a way that resonates with them. By connecting with your audience on an emotional level, you can create a powerful bond that keeps them engaged from beginning to end.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Develop memorable characters: Characters are the heart and soul of any narrative. Craft well-rounded and relatable characters that your audience can connect with on a personal level. Give them strengths, weaknesses, and compelling backstories that shape their journey throughout the story. By creating characters that your audience can invest in emotionally, you can ensure they become deeply invested in the narrative.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Create a compelling conflict: Every great story revolves around a conflict that drives the plot forward. Whether it’s a personal struggle, an external threat, or a moral dilemma, the conflict should keep your audience on the edge of their seats. Introduce obstacles and challenges that your characters must overcome to achieve their goals. This not only adds tension but also allows for character growth and development.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Structure your narrative: A well-structured narrative is crucial for holding your audience’s attention. Begin with a captivating opening that hooks your readers or viewers, then gradually build up the tension. The middle part should introduce twists, turns, and surprises to keep the audience engaged. Finally, conclude with a satisfying resolution that ties up loose ends and leaves a lasting impact.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Utilize vivid imagery and sensory details: To transport your audience into the world of your story, use vivid imagery and sensory details. Engage their senses by describing the sights, sounds, smells, tastes, and textures within your narrative. This immersive experience will make your story come alive and create a lasting impression on your audience.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Show, don’t tell: Instead of simply telling your audience what is happening, show them through actions, dialogue, and vivid descriptions. This allows your audience to experience the story firsthand and form their own emotional connections. By engaging their imagination, you can create a more immersive and memorable narrative.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Craft a memorable ending: The ending of a story is just as important as its beginning. Leave your audience with a lasting impression by crafting a memorable ending that resonates with them. Whether it’s a surprising twist, a poignant resolution, or an open-ended conclusion that sparks discussion, make sure it leaves your audience thinking long after they’ve finished your narrative.</li></ol><p style=\"margin-right: 0px; margin-bottom: 30px; margin-left: 0px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\">Conclusion: Storytelling is a powerful tool that can captivate and inspire audiences. By understanding your audience, developing memorable characters, creating compelling conflicts, structuring your narrative effectively, utilizing vivid imagery, showing instead of telling, and crafting a memorable ending, you can master the art of storytelling and create narratives that will leave a lasting impact on your audience. So, go forth and unleash the power of storytelling to share your unique voice with the world.</p>",
+    "tags": [],
+    "meta_title": "lsaalslslals",
+    "meta_img": [
+      ""
+    ],
+    "meta_description": "desc",
+    "meta_keywords": "keyword",
+    "createdAt":  "2024-01-02T09:51:39.406Z",
+    "updatedAt":  "2024-01-02T09:51:39.406Z",
+    "__v": 2,
+    "isEditorsChoice": true,
+    "views": 0
+  },
+  {
+    "_id": "6593dd6b8a06cf012fad6117",
+    "title": "Journey through Time: Exploring the Fascinating World of Old Trains",
+    "category": "6594acf4ab38eb388022c6a6",
+    "slug": "journey-through-time:-exploring-the-fascinating-world-of-old-trains",
+    "banner": [
+      "../public/uploads/1704836117904.webp"
+    ],
+    "short_description": "Stories have been an integral part of human culture since the dawn of time. From ancient myths and legends to modern novels and films, storytelling has the power to captivate, inspire, and move us. But what makes a narrative truly compelling? In this article, we will explore the art of storytelling and provide you with valuable tips to craft narratives that leave a lasting impact on your audience.",
+    "description": "<p style=\"margin-right: 0px; margin-bottom: 30px; margin-left: 0px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\">Stories have been an integral part of human culture since the dawn of time. From ancient myths and legends to modern novels and films, storytelling has the power to captivate, inspire, and move us. But what makes a narrative truly compelling? In this article, we will explore the art of storytelling and provide you with valuable tips to craft narratives that leave a lasting impact on your audience.</p><ol style=\"margin: 30px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\"><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Know your audience: Before diving into the world of storytelling, it is essential to understand your audience. What are their interests, fears, and desires? Tailor your narrative in a way that resonates with them. By connecting with your audience on an emotional level, you can create a powerful bond that keeps them engaged from beginning to end.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Develop memorable characters: Characters are the heart and soul of any narrative. Craft well-rounded and relatable characters that your audience can connect with on a personal level. Give them strengths, weaknesses, and compelling backstories that shape their journey throughout the story. By creating characters that your audience can invest in emotionally, you can ensure they become deeply invested in the narrative.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Create a compelling conflict: Every great story revolves around a conflict that drives the plot forward. Whether it’s a personal struggle, an external threat, or a moral dilemma, the conflict should keep your audience on the edge of their seats. Introduce obstacles and challenges that your characters must overcome to achieve their goals. This not only adds tension but also allows for character growth and development.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Structure your narrative: A well-structured narrative is crucial for holding your audience’s attention. Begin with a captivating opening that hooks your readers or viewers, then gradually build up the tension. The middle part should introduce twists, turns, and surprises to keep the audience engaged. Finally, conclude with a satisfying resolution that ties up loose ends and leaves a lasting impact.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Utilize vivid imagery and sensory details: To transport your audience into the world of your story, use vivid imagery and sensory details. Engage their senses by describing the sights, sounds, smells, tastes, and textures within your narrative. This immersive experience will make your story come alive and create a lasting impression on your audience.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Show, don’t tell: Instead of simply telling your audience what is happening, show them through actions, dialogue, and vivid descriptions. This allows your audience to experience the story firsthand and form their own emotional connections. By engaging their imagination, you can create a more immersive and memorable narrative.</li><li style=\"margin: 0px 0px 5px; padding: 0px; background: 0px 0px; border: 0px; vertical-align: baseline; outline: 0px;\">Craft a memorable ending: The ending of a story is just as important as its beginning. Leave your audience with a lasting impression by crafting a memorable ending that resonates with them. Whether it’s a surprising twist, a poignant resolution, or an open-ended conclusion that sparks discussion, make sure it leaves your audience thinking long after they’ve finished your narrative.</li></ol><p style=\"margin-right: 0px; margin-bottom: 30px; margin-left: 0px; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; outline: 0px; font-family: &quot;Work Sans&quot;; font-size: 18px;\">Conclusion: Storytelling is a powerful tool that can captivate and inspire audiences. By understanding your audience, developing memorable characters, creating compelling conflicts, structuring your narrative effectively, utilizing vivid imagery, showing instead of telling, and crafting a memorable ending, you can master the art of storytelling and create narratives that will leave a lasting impact on your audience. So, go forth and unleash the power of storytelling to share your unique voice with the world.</p>",
+    "tags": [
+      "[{\"value\":\"hello\"}",
+      "{\"value\":\"hoi\"}]"
+    ],
+    "meta_title": "Journey through Time: Exploring the Fascinating World of Old Trains",
+    "meta_img": [
+      "../public/uploads/1704251032500.jpg"
+    ],
+    "meta_description": "desc",
+    "meta_keywords": "keywords",
+    "createdAt":  "2024-01-02T09:54:51.895Z",
+    "updatedAt":  "2024-01-03T02:49:50.583Z",
+    "__v": 4,
+    "isEditorsChoice": false,
+    "views": 10
+  },
+  {
+    "_id": "6595b0545e59c49f334f7cde",
+    "title": "Delicious Egusi soup with swallow",
+    "category": "6596198a6894039444bbbefd",
+    "slug": "delicious-egusi-soup-with-swallow",
+    "banner": [
+      "../public/uploads/1704836846431.jpg"
+    ],
+    "short_description": "Egusi soup is a native soup known distinctively for its taste and leaves which sets it apart from the rest. This very delicious and nourishing soup can go with any popular swallows like Garri(Eba), Fufu(Apu), Semovita or even pounded yam",
+    "description": "<p><span style=\"color: rgb(119, 119, 119); font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px;\">Egusi soup is a native soup known distinctively for its taste and leaves which sets it apart from the rest. This very delicious and nourishing soup can go with any popular swallows like Garri(Eba), Fufu(Apu), Semovita or even pounded yam</span><br></p>",
+    "tags": [
+      "[{\"value\":\"helllo\"}]"
+    ],
+    "meta_title": "Delicious Egusi soup with swallow",
+    "meta_img": [
+      "../public/uploads/1704308820010.jpg"
+    ],
+    "meta_description": "test",
+    "meta_keywords": "keywords",
+    "createdAt":  "2024-01-03T19:07:00.063Z",
+    "updatedAt":  "2024-01-03T19:07:00.063Z",
+    "__v": 1,
+    "isEditorsChoice": false,
+    "views": 2
   },
   {
     "_id": "6595c7d35e59c49f334f7e94",
-    "title": "Demo Blog Post2",
-    "category": "6595bb7b5e59c49f334f7de9",
-    "slug": "demo-blog-post2",
-    "banner": ["../public/uploads/1704314834987.jpg"],
-    "short_description": "test\r\n",
-    "description": "<p>blog post</p>",
-    "tags": [{"value": "teddy bear"}, {"value": "haha"}],
-    "meta_title": "hhnhjjj",
-    "meta_img": ["../public/uploads/1704314834987.jpg"],
-    "meta_description": "",
-    "meta_keywords": "",
-    "createdAt": "2024-01-03T20:47:15.012Z",
-    "updatedAt": "2024-01-03T20:47:15.013Z",
-    "__v": 0
+    "title": "Delicious Soup",
+    "category": "6596198a6894039444bbbefd",
+    "slug": "delicious-soup",
+    "banner": [
+      "../public/uploads/1704837232908.jpg"
+    ],
+    "short_description": "banga soup",
+    "description": "<p>banga soup</p>",
+    "tags": [
+      "[{\"value\":\"tedd\"}",
+      "{\"value\":\"tthh\"}]"
+    ],
+    "meta_title": "banga soup",
+    "meta_img": [
+      "../public/uploads/1704314834987.jpg"
+    ],
+    "meta_description": "desc",
+    "meta_keywords": "keywords",
+    "createdAt":  "2024-01-03T20:47:15.012Z",
+    "updatedAt":  "2024-01-03T20:47:15.013Z",
+    "__v": 1,
+    "isEditorsChoice": false,
+    "views": 0
+  },
+  {
+    "_id": "65989a7df9b1360004b3d414",
+    "title": "The Weekend",
+    "category": "6594ab4c772efe3c35a9433e",
+    "slug": "the-weekend",
+    "banner": [
+      "../public/uploads/1704837567553.webp"
+    ],
+    "short_description": "music",
+    "description": "<p>musician</p>",
+    "tags": [
+      "[{\"value\":\"test\"}",
+      "{\"value\":\"ttete\"}]"
+    ],
+    "isEditorsChoice": false,
+    "meta_title": "The Weekend",
+    "meta_img": [
+      "../public/uploads/1704499837850.jpg"
+    ],
+    "meta_description": "desc ",
+    "meta_keywords": "keywords",
+    "views": 0,
+    "createdAt": "2024-01-06T00:10:37.858Z",    
+    "updatedAt":  "2024-01-06T00:10:37.858Z",
+    "__v": 1
   }
 ]

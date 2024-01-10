@@ -1,19 +1,48 @@
 [
   {
-    "_id": "658ddad4f7d2490de3e57059",
-    "name": "Demo Category 1",
-    "short_description": "Demo test 1",
-    "createdAt": "2023-12-28T20:30:12.151Z",
-    "updatedAt": "2023-12-28T20:30:12.151Z",
-    "__v": 0
-  },
-  {
-    "_id": "6594ab4c772efe3c35a9433e",
-    "name": "Demo Category 2",
-    "banner": [],
-    "short_description": "Demo test 2",
-    "createdAt": "2024-01-03T00:33:16.724Z",
-    "updatedAt": "2024-01-03T00:33:16.724Z",
-    "__v": 0
-  }
-]
+  "_id": "658ddad4f7d2490de3e57059",
+  "name": "Technology",
+  "createdAt":  "2023-12-28T20:30:12.151Z",
+  "updatedAt":  "2023-12-28T20:30:12.151Z",
+  "__v": 0
+},
+{
+  "_id": "6594ab4c772efe3c35a9433e",
+  "name": "Fashion",
+  "banner": [],
+  "short_description": "djjdjjddd",
+  "createdAt":  "2024-01-03T00:33:16.724Z",
+  "updatedAt":  "2024-01-03T00:33:16.724Z",
+  "__v": 0
+},
+{
+  "_id": "6594acf4ab38eb388022c6a6",
+  "name": "Art & Culture",
+  "banner": [
+    "../public/uploads/1704242420510.jpg"
+  ],
+  "short_description": "art is ",
+  "createdAt":  "2024-01-03T00:40:20.520Z",
+  "updatedAt":  "2024-01-03T00:40:20.520Z",
+  "__v": 0
+},
+{
+  "_id": "6595bb7b5e59c49f334f7de9",
+  "name": "Inspiration",
+  "banner": [
+    "../public/uploads/1704311675039.jpg"
+  ],
+  "short_description": "tests",
+  "createdAt":  "2024-01-03T19:54:35.071Z",
+  "updatedAt":  "2024-01-03T19:54:35.071Z",
+  "__v": 0
+},
+{
+  "_id": "6596198a6894039444bbbefd",
+  "name": "Food & culinary",
+  "banner": [],
+  "short_description": "testtt",
+  "createdAt":  "2024-01-04T02:35:54.224Z",
+  "updatedAt":  "2024-01-04T02:35:54.224Z",
+  "__v": 0
+}]
